@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/Lucas/Desktop/TLS-SEC/Rappel_C/TP",
+      "program": "/Users/Lucas/Desktop/TLS-SEC/Rappel_C/TP/build/Debug/outDebug"
+    }
+  ]
+}
